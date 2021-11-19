@@ -1,2 +1,2 @@
 # GOTries
-## Chaos of the two Jr. Developer who tries to learn GO language
+## Chaos of the two Jr. Developers who tries to learn GO language
